@@ -1,0 +1,6 @@
+{
+  "name": "jenkinsfile-common",
+  "pomversion": "1.0.0-SNAPSHOT",
+  "version": "0.0.1",
+  "description": "Pipeflow submodule needs package.json for versioning."
+}
