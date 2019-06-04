@@ -7,20 +7,17 @@ void call (){
                     echo "Checking microservice"
                 }
             }
-        }
-        stages {
             stage('build microservice') {
                 steps {
-                    echo "building microservice"
+                    echo "Checking microservice"
                 }
             }
-        }
-        stages {
             stage('deploy microservice') {
                 steps {
-                    echo "deploying microservcie"
+                    echo "Checking microservice"
                 }
             }
         }
+
     }
 }
